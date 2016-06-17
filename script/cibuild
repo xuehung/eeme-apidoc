@@ -37,3 +37,4 @@ echo "PATH:              ${PATH}"
 echo ""
 
 script/test
+git subtree push --prefix content origin gh-pages
